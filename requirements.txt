@@ -1,1 +1,1 @@
-Security==1.1.15
+git+https://github.com/pmp47/Security.git@master#egg=Security==1.1.15
